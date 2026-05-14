@@ -22,4 +22,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+https://1drv.ms/w/c/09f2e6e3945ed6b6/IQDD0TMMguFiT7YAgN6DMZ6VAYhsMlGXarfntfYOFUPp9M8?e=rTiVTN
+
 RESULT:
+
+Summarization has been implemented successfully
